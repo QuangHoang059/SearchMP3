@@ -1,12 +1,10 @@
 {
+
     "database": {
-        "host": "cs336.mysql.database.azure.com",
-        "user": "admin_cs336",
-        "port": 3306, 
-        "password": "password_cs336",
-        "database": "demo",
-        "ssl_ca": "DigiCertGlobalRootCA.crt.pem"
-      
+        "host": "localhost",
+        "user": "root",
+        "password": "password",
+        "database": "dejavu"
     },
     "database_type": "mysql"
 }

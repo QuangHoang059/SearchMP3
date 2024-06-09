@@ -1,0 +1,4 @@
+pydub
+pyaudio
+mysql-connector-python
+numpy
